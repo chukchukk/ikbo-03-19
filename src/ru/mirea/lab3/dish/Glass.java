@@ -1,8 +1,8 @@
 package ru.mirea.lab3.dish;
 
 public class Glass extends Dish {
-    private double volume;
-    private String type;
+    private double volume;  //Объем
+    private String type;  //Тип
 
     public Glass(String material, double cost, double volume, String type) {
         super(material, cost);

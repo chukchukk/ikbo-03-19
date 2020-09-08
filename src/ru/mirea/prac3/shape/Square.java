@@ -22,13 +22,11 @@ public class Square extends Rectangle {
     }
 
     public void setWidth(double side){
-        setLength(side);
-        setWidth(side);
+        setSide(side);
     }
 
     public void setLength(double side){
-        setLength(side);
-        setWidth(side);
+        setSide(side);
     }
 
     @Override
