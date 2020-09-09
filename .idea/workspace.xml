@@ -49,14 +49,17 @@
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="ru.mirea.prac1" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\repoJava\ikbo-03-19\src\ru\mirea\lab5\photos" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.FootballMatch">
-    <configuration name="BookTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.mirea.lab2.book.BookTest" />
+  <component name="RunManager" selected="Application.Animation">
+    <configuration name="Animation (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.mirea.lab5.Animation" />
       <module name="ikbo-03-19" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.mirea.lab2.book.*" />
+          <option name="PATTERN" value="ru.mirea.lab5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -64,12 +67,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CircleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.mirea.lab2.circle.CircleTest" />
+    <configuration name="Animation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.mirea.lab5.animation.Animation" />
       <module name="ikbo-03-19" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.mirea.lab2.circle.*" />
+          <option name="PATTERN" value="ru.mirea.lab5.animation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,12 +80,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DishTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.mirea.lab3.dish.DishTest" />
+    <configuration name="Animation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.mirea.lab5.animation.Animation" />
       <module name="ikbo-03-19" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.mirea.lab3.dish.*" />
+          <option name="PATTERN" value="ru.mirea.lab5.animation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestShape" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.mirea.prac3.shape.TestShape" />
+    <configuration name="TestNameable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.mirea.lab4.nameable.TestNameable" />
       <module name="ikbo-03-19" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.mirea.prac3.shape.*" />
+          <option name="PATTERN" value="ru.mirea.lab4.nameable.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,11 +121,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Animation (1)" />
+        <item itemvalue="Application.Animation" />
+        <item itemvalue="Application.TestNameable" />
         <item itemvalue="Application.FootballMatch" />
-        <item itemvalue="Application.DishTest" />
-        <item itemvalue="Application.BookTest" />
-        <item itemvalue="Application.TestShape" />
-        <item itemvalue="Application.CircleTest" />
       </list>
     </recent_temporary>
   </component>
@@ -137,7 +139,7 @@
       <workItem from="1599310195269" duration="7527000" />
       <workItem from="1599494936364" duration="14844000" />
       <workItem from="1599571900531" duration="7639000" />
-      <workItem from="1599587247469" duration="413000" />
+      <workItem from="1599587247469" duration="7312000" />
     </task>
     <servers />
   </component>
@@ -145,53 +147,71 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="574" y="113" key="#com.intellij.ide.util.MemberChooser" timestamp="1599579120617">
+    <state x="574" y="113" key="#com.intellij.ide.util.MemberChooser" timestamp="1599595474920">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="574" y="113" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1599579120617" />
+    <state x="574" y="113" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1599595474920" />
     <state x="566" y="319" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1599310909615">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="566" y="319" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1536.824@0.0.1536.824" timestamp="1599310909615" />
-    <state width="1493" height="261" key="GridCell.Tab.0.bottom" timestamp="1599579720933">
+    <state width="1493" height="261" key="GridCell.Tab.0.bottom" timestamp="1599597869927">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1599579720933" />
-    <state width="1493" height="261" key="GridCell.Tab.0.center" timestamp="1599579720933">
+    <state width="1493" height="261" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1599597869927" />
+    <state width="1493" height="261" key="GridCell.Tab.0.center" timestamp="1599597869927">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1599579720933" />
-    <state width="1493" height="261" key="GridCell.Tab.0.left" timestamp="1599579720932">
+    <state width="1493" height="261" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1599597869927" />
+    <state width="1493" height="261" key="GridCell.Tab.0.left" timestamp="1599597869927">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1599579720932" />
-    <state width="1493" height="261" key="GridCell.Tab.0.right" timestamp="1599579720933">
+    <state width="1493" height="261" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1599597869927" />
+    <state width="1493" height="261" key="GridCell.Tab.0.right" timestamp="1599597869927">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1599579720933" />
-    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1599579720934">
+    <state width="1493" height="261" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1599597869927" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1599597869928">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1599579720934" />
-    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1599579720933">
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1599597869928" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1599597869927">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1599579720933" />
-    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1599579720933">
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1599597869927" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1599597869927">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1599579720933" />
-    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1599579720934">
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1599597869927" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1599597869928">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1599579720934" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1599597869928" />
     <state x="498" y="304" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1599310818388">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="498" y="304" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1536.824@0.0.1536.824" timestamp="1599310818388" />
+    <state x="281" y="148" width="974" height="629" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1599594819257">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="281" y="148" width="974" height="629" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.824@0.0.1536.824" timestamp="1599594819257" />
     <state x="469" y="169" key="refactoring.ChangeSignatureDialog" timestamp="1599407587163">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="469" y="169" key="refactoring.ChangeSignatureDialog/0.0.1536.824@0.0.1536.824" timestamp="1599407587163" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="3" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="javax.imageio.IIOException" package="javax.imageio" />
+          <option name="timeStamp" value="4" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

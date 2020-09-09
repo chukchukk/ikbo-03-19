@@ -23,7 +23,8 @@ public class Animal implements Nameable {
 
     @Override
     public String getName() {
-        return null;
+
+        return name;
     }
 
     @Override
