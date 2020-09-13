@@ -8,7 +8,7 @@ public class FootballMatch extends JFrame {
     final String MADRID = "Real Madrid";
     final String MILAN = "AC Milan";
     final int END = 10;
-    final Font TEXTFONT = new Font("TimesRoman", Font.ITALIC, 25);
+    final Font TEXTFONT = new Font("Times New Roman", Font.ITALIC, 25);
 
     private int goalMadrid = 0;
     private int goalMilan = 0;
