@@ -53,7 +53,7 @@
       <recent name="D:\repoJava\ikbo-03-19\src\ru\mirea\lab5\photos" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ThirdExample">
+  <component name="RunManager" selected="Application.TestLinkedList">
     <configuration name="Animation (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ru.mirea.lab5.Animation" />
       <module name="ikbo-03-19" />
@@ -106,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestNameable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.mirea.lab4.nameable.TestNameable" />
+    <configuration name="TestLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.mirea.lab7.TestLinkedList" />
       <module name="ikbo-03-19" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.mirea.lab4.nameable.*" />
+          <option name="PATTERN" value="ru.mirea.lab7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,13 +132,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestLinkedList" />
         <item itemvalue="Application.ThirdExample" />
         <item itemvalue="Application.FootballMatch" />
         <item itemvalue="Application.Animation (1)" />
         <item itemvalue="Application.Animation" />
-        <item itemvalue="Application.TestNameable" />
       </list>
     </recent_temporary>
   </component>
@@ -156,7 +167,7 @@
       <workItem from="1599587247469" duration="7312000" />
       <workItem from="1599678870453" duration="4893000" />
       <workItem from="1599818560478" duration="23000" />
-      <workItem from="1599995069522" duration="312000" />
+      <workItem from="1599995069522" duration="2154000" />
     </task>
     <servers />
   </component>
@@ -172,22 +183,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="566" y="319" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1536.824@0.0.1536.824" timestamp="1599310909615" />
-    <state width="1493" height="201" key="GridCell.Tab.0.bottom" timestamp="1599683827746">
+    <state width="1493" height="201" key="GridCell.Tab.0.bottom" timestamp="1599996938981">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="201" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1599683827746" />
-    <state width="1493" height="201" key="GridCell.Tab.0.center" timestamp="1599683827746">
+    <state width="1493" height="201" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1599996938981" />
+    <state width="1493" height="201" key="GridCell.Tab.0.center" timestamp="1599996938980">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="201" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1599683827746" />
-    <state width="1493" height="201" key="GridCell.Tab.0.left" timestamp="1599683827746">
+    <state width="1493" height="201" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1599996938980" />
+    <state width="1493" height="201" key="GridCell.Tab.0.left" timestamp="1599996938980">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="201" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1599683827746" />
-    <state width="1493" height="201" key="GridCell.Tab.0.right" timestamp="1599683827746">
+    <state width="1493" height="201" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1599996938980" />
+    <state width="1493" height="201" key="GridCell.Tab.0.right" timestamp="1599996938981">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="201" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1599683827746" />
+    <state width="1493" height="201" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1599996938981" />
     <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1599597869928">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -232,6 +243,11 @@
           <properties class="javax.imageio.IIOException" package="javax.imageio" />
           <option name="timeStamp" value="4" />
         </breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ru/mirea/lab6/ThirdExample.java</url>
+          <line>66</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
