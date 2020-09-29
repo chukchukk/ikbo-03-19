@@ -56,7 +56,7 @@
       <recent name="D:\repoJava\ikbo-03-19\src\ru\mirea\lab5\photos" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SomeTest">
+  <component name="RunManager" selected="Application.Profile">
     <configuration name="DequeuePlay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ru.mirea.prac7.DequeuePlay" />
       <module name="ikbo-03-19" />
@@ -70,12 +70,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Recursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.mirea.prac5.Recursion" />
+    <configuration name="Profile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.mirea.prac9.Profile" />
       <module name="ikbo-03-19" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.mirea.prac5.*" />
+          <option name="PATTERN" value="ru.mirea.prac9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,11 +137,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Profile" />
         <item itemvalue="Application.SomeTest" />
         <item itemvalue="Application.Test (1)" />
         <item itemvalue="Application.DequeuePlay" />
         <item itemvalue="Application.Test" />
-        <item itemvalue="Application.Recursion" />
       </list>
     </recent_temporary>
   </component>
@@ -168,7 +168,7 @@
       <workItem from="1600781305493" duration="5758000" />
       <workItem from="1600797427338" duration="267000" />
       <workItem from="1601323844393" duration="4728000" />
-      <workItem from="1601385732190" duration="4683000" />
+      <workItem from="1601385732190" duration="6881000" />
     </task>
     <servers />
   </component>
@@ -180,10 +180,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="540" y="0" key="#Auto_Import/0.0.1536.824@0.0.1536.824" timestamp="1600021601396" />
-    <state x="574" y="113" key="#com.intellij.ide.util.MemberChooser" timestamp="1601395859809">
+    <state x="574" y="113" key="#com.intellij.ide.util.MemberChooser" timestamp="1601398887452">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="574" y="113" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1601395859809" />
+    <state x="574" y="113" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1601398887452" />
     <state x="449" y="148" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1600628291254">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -192,22 +192,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="566" y="319" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1536.824@0.0.1536.824" timestamp="1599310909615" />
-    <state width="1493" height="280" key="GridCell.Tab.0.bottom" timestamp="1601329088151">
+    <state width="1493" height="280" key="GridCell.Tab.0.bottom" timestamp="1601399562605">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="280" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1601329088151" />
-    <state width="1493" height="280" key="GridCell.Tab.0.center" timestamp="1601329088151">
+    <state width="1493" height="280" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1601399562605" />
+    <state width="1493" height="280" key="GridCell.Tab.0.center" timestamp="1601399562604">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="280" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1601329088151" />
-    <state width="1493" height="280" key="GridCell.Tab.0.left" timestamp="1601329088151">
+    <state width="1493" height="280" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1601399562604" />
+    <state width="1493" height="280" key="GridCell.Tab.0.left" timestamp="1601399562604">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="280" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1601329088151" />
-    <state width="1493" height="280" key="GridCell.Tab.0.right" timestamp="1601329088151">
+    <state width="1493" height="280" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1601399562604" />
+    <state width="1493" height="280" key="GridCell.Tab.0.right" timestamp="1601399562605">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="280" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1601329088151" />
+    <state width="1493" height="280" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1601399562605" />
     <state width="1493" height="170" key="GridCell.Tab.1.bottom" timestamp="1600030302914">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
