@@ -1,4 +1,6 @@
-package ru.mirea.prac10;
+package ru.mirea.prac10.complex;
+
+import ru.mirea.prac10.complex.Complex;
 
 public interface ComplexAbstractFactory {
     public Complex createComplex();

@@ -1,6 +1,9 @@
-package ru.mirea.prac10;
+package ru.mirea.prac10.complex;
 
-public class ConcreteFactory implements ComplexAbstractFactory{
+import ru.mirea.prac10.complex.Complex;
+import ru.mirea.prac10.complex.ComplexAbstractFactory;
+
+public class ConcreteFactory implements ComplexAbstractFactory {
     @Override
     public Complex createComplex() {
         return new Complex();

@@ -1,4 +1,4 @@
-package ru.mirea.prac10;
+package ru.mirea.prac10.complex;
 
 public class Complex {
     private int real;
