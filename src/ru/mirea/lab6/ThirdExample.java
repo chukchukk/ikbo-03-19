@@ -50,6 +50,7 @@ public class ThirdExample extends JFrame {
 
         setSize(screenWidth/2, screenHeight/2);
         setLocationByPlatform(true);
+
         setLayout(new BorderLayout());
         add(jTextArea,BorderLayout.NORTH);
 

@@ -51,7 +51,7 @@ public class Test {
         int i=0, j=0;   //i отвечает за arr1, j - за arr2
 
         for (int k=0; k<arr3.length; k++) {
-            
+
             if (i > arr1.length-1) {
                 Student student = arr2[j];
                 arr3[k] = student;

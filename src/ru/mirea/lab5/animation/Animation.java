@@ -18,7 +18,7 @@ public class Animation extends JFrame {
     public void run() throws InterruptedException {
         while(true){
             picture.setIcon(new ImageIcon(PATH +  index+".jpg"));
-            Thread.sleep(150);
+            Thread.sleep(100);
             index+= delta;
             if (index == 7 || index == 0)
                 delta*= -1;
@@ -31,7 +31,6 @@ public class Animation extends JFrame {
         setSize(1200,1000);
         add(picture);
         setVisible(true);
-
         run();
     }
 

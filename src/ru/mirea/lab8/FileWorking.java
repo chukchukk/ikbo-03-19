@@ -45,11 +45,11 @@ public class FileWorking {
     public static void addToTheEnd(){
         String text = new String();
         try {
-            System.out.println("Ввод информации: ");
+            System.out.println("Ввод информации в конец файла: ");
             FileWriter fileWriter = new FileWriter(file, true);    //true - информация добавляет в конец
             text = in.nextLine();
             fileWriter.write(text);
-            fileWriter.flush();
+            //fileWriter.flush();
             fileWriter.close();
         } catch (IOException e) {
             e.printStackTrace();
