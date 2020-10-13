@@ -10,6 +10,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
         <option value="Interface" />
         <option value="Class" />
       </list>
@@ -56,7 +57,7 @@
       <recent name="D:\repoJava\ikbo-03-19\src\ru\mirea\lab5\photos" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Tests">
+  <component name="RunManager" selected="Application.Tests (1)">
     <configuration name="Profile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ru.mirea.prac9.Profile" />
       <module name="ikbo-03-19" />
@@ -83,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.mirea.prac8.Test" />
+    <configuration name="TestClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.mirea.lab12.TestClass" />
       <module name="ikbo-03-19" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.mirea.prac8.*" />
+          <option name="PATTERN" value="ru.mirea.lab12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.mirea.lab12.TestClass" />
+    <configuration name="Tests (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.mirea.prac11.Tests" />
       <module name="ikbo-03-19" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.mirea.lab12.*" />
+          <option name="PATTERN" value="ru.mirea.prac11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,26 +123,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Tests (1)" />
         <item itemvalue="Application.Tests" />
         <item itemvalue="Application.TestClass" />
         <item itemvalue="Application.Profile" />
         <item itemvalue="Application.SomeTest" />
-        <item itemvalue="Application.Test (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -171,7 +159,11 @@
       <workItem from="1601385732190" duration="7255000" />
       <workItem from="1601402079151" duration="893000" />
       <workItem from="1601934812061" duration="5321000" />
-      <workItem from="1601981486122" duration="10784000" />
+      <workItem from="1601981486122" duration="11385000" />
+      <workItem from="1602002197736" duration="9553000" />
+      <workItem from="1602238957004" duration="193000" />
+      <workItem from="1602586249995" duration="12728000" />
+      <workItem from="1602605894571" duration="690000" />
     </task>
     <servers />
   </component>
@@ -183,10 +175,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="540" y="0" key="#Auto_Import/0.0.1536.824@0.0.1536.824" timestamp="1600021601396" />
-    <state x="574" y="113" key="#com.intellij.ide.util.MemberChooser" timestamp="1601992898692">
+    <state x="574" y="113" key="#com.intellij.ide.util.MemberChooser" timestamp="1602606272762">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="574" y="113" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1601992898692" />
+    <state x="574" y="113" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1602606272762" />
     <state x="449" y="148" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1600628291254">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -199,22 +191,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1601940460349" />
-    <state width="1493" height="280" key="GridCell.Tab.0.bottom" timestamp="1601993729239">
+    <state width="1493" height="151" key="GridCell.Tab.0.bottom" timestamp="1602605047537">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="280" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1601993729239" />
-    <state width="1493" height="280" key="GridCell.Tab.0.center" timestamp="1601993729239">
+    <state width="1493" height="151" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1602605047537" />
+    <state width="1493" height="151" key="GridCell.Tab.0.center" timestamp="1602605047537">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="280" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1601993729239" />
-    <state width="1493" height="280" key="GridCell.Tab.0.left" timestamp="1601993729239">
+    <state width="1493" height="151" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1602605047537" />
+    <state width="1493" height="151" key="GridCell.Tab.0.left" timestamp="1602605047537">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="280" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1601993729239" />
-    <state width="1493" height="280" key="GridCell.Tab.0.right" timestamp="1601993729239">
+    <state width="1493" height="151" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1602605047537" />
+    <state width="1493" height="151" key="GridCell.Tab.0.right" timestamp="1602605047537">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="280" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1601993729239" />
+    <state width="1493" height="151" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1602605047537" />
     <state width="1493" height="284" key="GridCell.Tab.1.bottom" timestamp="1601993695478">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
